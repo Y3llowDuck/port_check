@@ -22,6 +22,11 @@ A Bash script to test outbound TCP connectivity from your local Linux machine. T
    ```bash
    git clone https://github.com/Y3llowDuck/port_check.git
 
+1. Go to location. Make the file executable:
+   ```bash
+   cd port_check
+   chmod +x port_check.sh
+   
 ## Example Output
 
 Here’s an example of what running the script looks like:
